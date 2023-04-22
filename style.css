@@ -27,7 +27,8 @@
   margin: 0 auto 0;
 }
 
-.task__item,.input-text {
+.task__item,
+.input-text {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
@@ -42,7 +43,8 @@
   padding: 0px;
 }
 
-.list,.section__header {
+.list,
+.section__header {
   list-style: none;
 }
 
