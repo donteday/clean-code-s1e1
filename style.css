@@ -43,7 +43,7 @@
   padding: 0px;
 }
 
-.list,
+.list__item,
 .section__header {
   list-style: none;
 }
@@ -104,7 +104,7 @@
 }
 
 /* Task list */
-.list {
+.list__item {
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
